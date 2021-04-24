@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(248, 248, 248);
+}
+
+.maintop {
+    margin-top: 40px;
+}
+
+.move-left {
+    padding-left: 370px;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.dark2 {
+    background-color: black;
+    color: white;
+    margin-top: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.sizecoins {
+    font-size: 15px;
+}
+
+.free {
+    background-color: rgb(8, 136, 227);
+    color: white;
+    position: absolute;
+    right: 1rem;
+    padding: 3px;
+}
+
+.btline {
+    background-color: black;
+    color: orangered;
+}
+
+.main {
+    border: none;
+}
+
+.alignbtn {
+    background-color: red;
+}
+
+p {
+    color: rgb(118, 118, 118);
+}
+
+.maintop {
+    background-color: rgb(255, 255, 255);
+    padding-top: 20px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.expand {
+    padding: 10px;
+}
+
+h4 {
+    color: darkblue;
+}
